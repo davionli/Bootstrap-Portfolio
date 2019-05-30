@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio
 
-Bottstrap-Portfoilo is the first assignment we use bootstrap
+Bootstrap-Portfoilo is the first assignment we use bootstrap
 
 ## About me 
 
